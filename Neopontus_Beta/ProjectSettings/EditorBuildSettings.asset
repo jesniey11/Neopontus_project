@@ -1,0 +1,149 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main_Scene.unity
+    guid: b01ca46ada8644c4abc87273a6fd7576
+  - enabled: 1
+    path: Assets/Scenes/Scene_Park.unity
+    guid: df0eecfe6f3fd2d44ae1a97fb756cf13
+  - enabled: 1
+    path: Assets/Scenes/Home_Scene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/School_Scene.unity
+    guid: 7b203645a290f514dacb2bc690050ffe
+  - enabled: 1
+    path: Assets/Scenes/Home_I_Scene.unity
+    guid: 3ee3ae780f4596845beb9edbb2510855
+  - enabled: 1
+    path: Assets/Scenes/School_I_Scene.unity
+    guid: 799cfd9833f96e647819050afdd13abd
+  - enabled: 1
+    path: Assets/Scenes/E_boss_Scene.unity
+    guid: a291398c9de8c6d48ac5489c464dc659
+  - enabled: 1
+    path: Assets/Scenes/1D/Title.unity
+    guid: b4ecf8d84dcda5e47b534a9babe81e96
+  - enabled: 1
+    path: Assets/Scenes/1D/1D_Home_Scene.unity
+    guid: adcb9f1df06ab444796b615d678d3ab8
+  - enabled: 1
+    path: Assets/Scenes/1D/1D_Main_Scene.unity
+    guid: 4121afcb506a00b498f7ab0851581d2c
+  - enabled: 1
+    path: Assets/Scenes/1D/1D_Park_Scene.unity
+    guid: ac0ba6d5e9e4a724dacbea97966c51f1
+  - enabled: 1
+    path: Assets/Scenes/2D/2D_2_Home_Scene.unity
+    guid: d3f44b28f9d1668479a1ff138f284877
+  - enabled: 1
+    path: Assets/Scenes/2D/2D_Home_Scene.unity
+    guid: 03357a24cda20694fba11b523704196f
+  - enabled: 1
+    path: Assets/Scenes/2D/2D_Main_Scene.unity
+    guid: 50386e50a6d2b7d4d98582e27983b307
+  - enabled: 1
+    path: Assets/Scenes/2D/2D_Park_Scene.unity
+    guid: 576381b97d9448b45a02a892865c87f5
+  - enabled: 1
+    path: Assets/Scenes/3D/3D_2_Home_Scene.unity
+    guid: c601173ee92d8d2488a6918232c4e374
+  - enabled: 1
+    path: Assets/Scenes/3D/3D_Class_Scene.unity
+    guid: 24fe8ba4456d5ab43b94a377447cad23
+  - enabled: 1
+    path: Assets/Scenes/3D/3D_Home_Scene.unity
+    guid: 8a3f52500e31a494cbd24f7511b29de9
+  - enabled: 1
+    path: Assets/Scenes/3D/3D_School_I_Scene.unity
+    guid: 2ae5a2471b547ed4a87699d5089d0d2a
+  - enabled: 1
+    path: Assets/Scenes/4D/4D_2_Counsel_Scene.unity
+    guid: 947209a45cd8b5e49a1d48272b9cde19
+  - enabled: 1
+    path: Assets/Scenes/4D/4D_2_Home_Scene.unity
+    guid: e6ec24412a6b7a24491e94d6c43c3613
+  - enabled: 1
+    path: Assets/Scenes/4D/4D_Counsel_Scene.unity
+    guid: 5f629035210a54740ad59dcf339fc3ab
+  - enabled: 1
+    path: Assets/Scenes/4D/4D_Field_Scene.unity
+    guid: eec4f2903cb93644f980abc45bc2b630
+  - enabled: 1
+    path: Assets/Scenes/4D/4D_Home_Scene.unity
+    guid: 200fdafe684e7864cb1cf5012a3dbaa7
+  - enabled: 1
+    path: Assets/Scenes/4D/4D_Main_Scene.unity
+    guid: b66e493a1d07cd642a0c6df63dbff99a
+  - enabled: 1
+    path: Assets/Scenes/4D/4D_School_I_Scene.unity
+    guid: 332e28dfae39fa34bafd0e921096d5ec
+  - enabled: 1
+    path: Assets/Scenes/4D/4D_School_Scene.unity
+    guid: 38146e64c806229469d1594229241453
+  - enabled: 1
+    path: Assets/Scenes/5D/5D_2_Home_Scene.unity
+    guid: a0a87c1f99c996f408ca7d1e44cc6225
+  - enabled: 1
+    path: Assets/Scenes/5D/5D_2_Main_Scene.unity
+    guid: d70039bbebdc0c64fa87864ba0925b2b
+  - enabled: 1
+    path: Assets/Scenes/5D/5D_2_Park_Scene.unity
+    guid: 7b403e981bd2253439a0b41e7773478f
+  - enabled: 1
+    path: Assets/Scenes/5D/5D_Home_Scene.unity
+    guid: e3c2883f5a6d40640b3ab4b6d1c90b57
+  - enabled: 1
+    path: Assets/Scenes/5D/5D_Machine_Scene.unity
+    guid: c7a9afd1db907394f81196eb0a895243
+  - enabled: 1
+    path: Assets/Scenes/5D/5D_Main_Scene.unity
+    guid: 688434803fa7d2a4eac761ea711e5daf
+  - enabled: 1
+    path: Assets/Scenes/5D/5D_Park_Scene.unity
+    guid: 9023d90dd99411e45acfcafac44b2280
+  - enabled: 1
+    path: Assets/Scenes/5D/5D_School_I_Scene.unity
+    guid: 0289669a4f91f8f4a9325ef098a3fe62
+  - enabled: 1
+    path: Assets/Scenes/5D/5D_Class_Scene.unity
+    guid: c722af95179e313408d97543126a7cc4
+  - enabled: 1
+    path: Assets/Scenes/6D/6D_2_Home_Scene.unity
+    guid: aace5d56716b67341b2e894023a210aa
+  - enabled: 1
+    path: Assets/Scenes/6D/6D_Home_Scene.unity
+    guid: f129c62262dac644d825a05a1049aa98
+  - enabled: 1
+    path: Assets/Scenes/6D/6D_Main_Scene.unity
+    guid: 50b63072a5215f64e9946f9bf19f102a
+  - enabled: 1
+    path: Assets/Scenes/6D/6D_School_I_Scene.unity
+    guid: 9029cd4a564548f49aa9dc30cafccb1b
+  - enabled: 1
+    path: Assets/Scenes/7D/7D_End_Scene.unity
+    guid: 028362e03e4952f4aae7534037df96b0
+  - enabled: 1
+    path: Assets/Scenes/7D/7D_Lab_Scene.unity
+    guid: dff6e1309e9056e4eae8488c03d615e6
+  - enabled: 1
+    path: Assets/Scenes/7D/7D_Machine_Scene.unity
+    guid: 92187192054ae6446818a687621b733f
+  - enabled: 1
+    path: Assets/Scenes/7D/7D_Main_Scene.unity
+    guid: 3206590f35da8bb42bd5e8a0226e2ddd
+  - enabled: 1
+    path: Assets/Scenes/7D/7D_MaxE_Scene.unity
+    guid: a95447db13002bc48acb22c65f7d2a91
+  - enabled: 1
+    path: Assets/Scenes/7D/7D_MinE_Scene.unity
+    guid: adf22e3cafc5ed6499214bd103bcd90e
+  - enabled: 1
+    path: Assets/Scenes/7D/7D_Park_Scene.unity
+    guid: 0aef2d3f1edd53e4087b6d6abb9f88e2
+  m_configObjects: {}
